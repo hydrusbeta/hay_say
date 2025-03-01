@@ -128,6 +128,7 @@ def instantiate_tabs_for_testing():
         RvcTab(None),
         StyleTTS2Tab(None),
         GPTSoVITSTab(None),
+        VoiceActorCharactersTab(None),
         SampleTab(None)
     ]
 
